@@ -27,7 +27,7 @@ public class LibroDAOPrincipal {
 		libro.setIdLibro(1);
 		libro.setTitulo("guliber");
 		libro.setEditorial("mayor");
-		libro.setNumPaginas(400);
+		libro.setNumPaginas(1);
 		libro.setEdicion("edicion3");
 		libro.setIdioma("español");
 		libro.setFechaPublicacion(new Date());
